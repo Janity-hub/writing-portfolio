@@ -9,16 +9,14 @@ Some of the content is written directly within this repository, while others are
 ## 📚 Table of Contents
 
 ### 🌱 Personal Growth & Psychology
-- [The Compound Effect of Skill Building](The-Compound-Effect-of-Skill-Building.md)
+- [How I Built Myself from the Inside Out](Built-Myself-from-the-Inside-Out.md)
 
-### 💻 Technical Notes & Markdown Tips
+### 💻 Technical Notes 
 - [Platform Risk Control Vulnerability](Platform-Risk-Control-Vulnerability.md)
 
 ### 🌍 Society, Culture & Analysis
-- *(to be added)*
-
-### 💬 Reflections & Essays
-- *(to be added)*
+- [The Compound Effect of Skill Building](The-Compound-Effect-of-Skill-Building.md)
+- [The Cost of Becoming Expensive](The-Cost-of-Becoming-Expensive.md)
 
 > This portfolio is a work in progress. Thank you for reading!
 
