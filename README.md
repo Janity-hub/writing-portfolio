@@ -2,7 +2,10 @@
 
 A collection of my thoughts and articles—written in Markdown.
 Here, I share my thoughts and articles across a wide range of topics. All posts are based on my own experiences, reflections, and insights.
-Some of the content is written directly within this repository, while others are linked from external platforms where I also publish. Over time, this space will serve both as a storage hub and a creative showcase. 
+Some of the content is written directly within this repository, while others are linked from external platforms where I also publish. 
+
+## My full collection of articles is available on my:
+- [Medium homepage](https://medium.com/@tinejane68)
 
 > 📌 All writing in this repository is under [CC BY-NC-SA 4.0](#-license) — please do not redistribute without attribution or permission.
 
