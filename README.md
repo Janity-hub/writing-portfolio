@@ -9,7 +9,7 @@ Some of the content is written directly within this repository, while others are
 ## 📚 Table of Contents
 
 ### 🌱 Personal Growth & Psychology
-- [How I Built Myself from the Inside Out](https://github.com/user-attachments/assets/011d1981-26f5-4300-9721-3b925327d652)
+- [How I Built Myself from the Inside Out](https://medium.com/@tinejane68/how-i-built-a-functional-personality-system-without-support-1372f9330e67)
 
 ### 💻 Technical Notes 
 - [Platform Risk Control Vulnerability](Platform-Risk-Control-Vulnerability.md)
