@@ -9,7 +9,7 @@ Some of the content is written directly in Markdown within this repository, whil
 ## 📚 Table of Contents (Coming Soon)
 
 ### 🌱 Personal Growth & Psychology
-- The Compound Effect of Skill Building
+- [The Compound Effect of Skill Building](The-Compound-Effect-of-Skill-Building.md)
 
 ### 💻 Technical Notes & Markdown Tips
 - *(to be added)*
