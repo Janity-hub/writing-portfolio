@@ -12,7 +12,7 @@ Some of the content is written directly in Markdown within this repository, whil
 - [The Compound Effect of Skill Building](The-Compound-Effect-of-Skill-Building.md)
 
 ### 💻 Technical Notes & Markdown Tips
-- *(to be added)*
+- [Platform Risk Control Vulnerability](Platform-Risk-Control-Vulnerability.md)
 
 ### 🌍 Society, Culture & Analysis
 - *(to be added)*
