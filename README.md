@@ -7,7 +7,7 @@ Some of the content is written directly within this repository, while others are
 ## My full collection of articles is available on my:
 - [Medium homepage](https://medium.com/@tinejane68)
 
-> 📌 All writing in this repository is under [CC BY-NC-SA 4.0](#-license) — please do not redistribute without attribution or permission.
+> All writing in this repository is under [CC BY-NC-SA 4.0](#-license) — please do not redistribute without attribution or permission.
 
 ## 📚 Table of Contents
 
