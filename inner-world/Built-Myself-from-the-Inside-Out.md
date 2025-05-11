@@ -1,4 +1,9 @@
-# How I Built Myself from the Inside Out
+---
+title: "How I Built Myself from the Inside Out"
+date: 2024-01-01
+categories: ["Inner World"]
+---
+
 In mainstream psychology, the formation of a stable and functional personality is often attributed to secure attachment, clearly defined boundaries, and emotionally safe environments. I grew up with none of these.
 
 My family system was chaotic — emotional volatility, control disguised as care, and a constant undercurrent of tension. From an early age, I recognized that if I followed the trajectory I was given, I would become a fragmented, confused person with no clear sense of self.
