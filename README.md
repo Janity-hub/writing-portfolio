@@ -5,21 +5,25 @@ Here, I share my thoughts and articles across a wide range of topics. All posts 
 Some of the content is written directly within this repository, while others are linked from external platforms where I also publish. 
 
 ## My full collection of articles is available on my:
+
 - [Medium homepage](https://medium.com/@tinejane68)
 
 > All writing in this repository is under [CC BY-NC-SA 4.0](#-license) — please do not redistribute without attribution or permission.
 
 ## 📚 Table of Contents
 
-### 🌱 Personal Growth & Psychology
-- [How I Built Myself from the Inside Out](https://medium.com/@tinejane68/how-i-built-a-functional-personality-system-without-support-1372f9330e67)
+### 🌍 Society & Analysis
 
-### 💻 Technical Notes 
-- [Platform Risk Control Vulnerability](Platform-Risk-Control-Vulnerability.md)
-
-### 🌍 Society, Culture & Analysis
 - [The Compound Effect of Skill Building](The-Compound-Effect-of-Skill-Building.md)
 - [The Cost of Becoming Expensive](The-Cost-of-Becoming-Expensive.md)
+
+### 🌱 Inner World
+
+- [How I Built Myself from the Inside Out](Built-Myself-from-the-Inside-Out.md)
+
+### 💻 Tech Projects
+
+- [Platform Risk Control Vulnerability](Platform-Risk-Control-Vulnerability.md)
 
 > This portfolio is a work in progress. Thank you for reading!
 
