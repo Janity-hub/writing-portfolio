@@ -1,4 +1,9 @@
-# The Cost of Becoming Expensive
+---
+title: "The Cost of Becoming Expensive"
+date: 2024-01-01
+categories: ["Society & Analysis"]
+---
+
 People often say, “You’re good at everything,” as if being capable across multiple domains is a personal choice or a badge of honor.
 
 It isn’t. Not for me.
