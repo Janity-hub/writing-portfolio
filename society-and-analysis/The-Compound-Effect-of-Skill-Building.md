@@ -1,4 +1,9 @@
-# The Compound Effect of Skill Building
+---
+title: "The Compound Effect of Skill Building"
+date: 2024-01-01
+categories: ["Society & Analysis"]
+---
+
 Lately, I've become increasingly fascinated by the power of the compounding curve. Compound growth isn't limited to financial investments—it's deeply embedded in many areas of life, especially in skill acquisition and personal growth.
 
 Whenever you start learning something new—be it a language, Photoshop, programming, or any other technical skill—it almost always feels like progress is painfully slow at first. You pour in time and energy, yet all you seem to be doing is laying an invisible foundation. The gains feel fragmented and underwhelming, making you question, "Will I ever actually master this?"
