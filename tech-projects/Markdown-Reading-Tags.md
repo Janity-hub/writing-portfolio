@@ -1,10 +1,10 @@
 ---
 title: "Track Reading Progress in Markdown with Anchor Links"
-date: 2024-01-01
+date: 2025-05-11
 categories: ["Tech Projects"]
 ---
 
-> Works with Obsidian / Typora / VSCode / Hugo or any Markdown-compatible platform
+*Works with Obsidian, Typora, VSCode, Hugo, or any Markdown-compatible platform.*
 
 ## Why Do You Need Paragraph-Level Markers?
 
@@ -14,7 +14,7 @@ When you're managing large notes, reading long documents, or reviewing content f
 - You find a paragraph worth sharing, but **can't find it again later**
 - Obsidian only jumps to headings by default — **not to precise paragraphs**
 
-Unlike Word (which supports comments but is heavy and incompatible with Git), Markdown can do this cleanly with:
+Unlike Word (which supports comments but is heavy and Git-unfriendly), Markdown offers a cleaner approach with:
 
 - Marked reading positions (across multiple files)
 - Highlighted quotes for future publishing
@@ -53,8 +53,8 @@ This is where I left off reading.
 > "Tact isn’t delay; it’s the wisdom of pacing information."
 ```
 
-- `name="..."` is a standard HTML anchor and works in most Markdown renderers
-- Emojis help visually, but are optional
+> **Note:** The `name="..."` attribute is a standard HTML anchor. It works in most Markdown renderers and allows precise jumps.  
+> Emojis are optional but help visually distinguish sections.
 
 ## Step 3: Reference Paragraphs from Other Notes
 
@@ -70,6 +70,7 @@ This is where I left off reading.
 ```
 
 > Obsidian’s `[[filename#anchor]]` syntax allows smooth jump to section titles or HTML anchors you insert.
+This lightweight method helps you stay organized while navigating and reusing long Markdown notes with ease.
 
 ---
 
