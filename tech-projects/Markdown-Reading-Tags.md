@@ -1,4 +1,8 @@
-# Track Reading Progress in Markdown with Anchor Links
+---
+title: "Track Reading Progress in Markdown with Anchor Links"
+date: 2024-01-01
+categories: ["Tech Projects"]
+---
 
 > Works with Obsidian / Typora / VSCode / Hugo or any Markdown-compatible platform
 
