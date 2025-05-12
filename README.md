@@ -14,16 +14,17 @@ Some of the content is written directly within this repository, while others are
 
 ### 🌍 Society & Analysis
 
-- [The Compound Effect of Skill Building](The-Compound-Effect-of-Skill-Building.md)
-- [The Cost of Becoming Expensive](The-Cost-of-Becoming-Expensive.md)
+- [The Compound Effect of Skill Building](society-and-analysis/The-Compound-Effect-of-Skill-Building.md)
+- [The Cost of Becoming Expensive](society-and-analysis/The-Cost-of-Becoming-Expensive.md)
 
 ### 🌱 Inner World
 
-- [How I Built Myself from the Inside Out](Built-Myself-from-the-Inside-Out.md)
+- [How I Built Myself from the Inside Out](inner-world/Built-Myself-from-the-Inside-Out.md)
 
 ### 💻 Tech Projects
 
-- [Platform Risk Control Vulnerability](Platform-Risk-Control-Vulnerability.md)
+- [Platform Risk Control Vulnerability](tech-projects/Platform-Risk-Control-Vulnerability.md)
+- [Track Reading Progress in Markdown with Anchor Links](tech-projects/Markdown-Reading-Tags.md)
 
 > This portfolio is a work in progress. Thank you for reading!
 
