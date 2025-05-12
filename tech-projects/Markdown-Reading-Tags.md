@@ -1,4 +1,4 @@
-# How to Mark Reading Progress and Highlight Key Paragraphs in Markdown (Using Obsidian)
+# Track Reading Progress in Markdown with Anchor Links
 
 > Works with Obsidian / Typora / VSCode / Hugo or any Markdown-compatible platform
 
@@ -69,7 +69,7 @@ This is where I left off reading.
 
 ---
 
-# 如何在 Markdown 中标记阅读进度和高亮段落：用 Obsidian 实现段落级跳转
+# 使用锚链接跟踪 Markdown 阅读进度
 
 > 适用于 Obsidian / Typora / VSCode / Hugo 等支持 Markdown 的任意平台
 
