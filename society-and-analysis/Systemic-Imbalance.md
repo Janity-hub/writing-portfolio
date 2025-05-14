@@ -1,7 +1,7 @@
 ---
 title: "When Upholding Your Rights Is Harder Than Breaking the Rules"
 date: 2025-05-14
-categories: ["Society and Analysis"]
+categories: ["Society & Analysis"]
 ---
 
 In a system supposedly designed to protect ordinary people, we often run into a strange reality: **those who try to assert their rights face more resistance, cost, and emotional burden than those who simply ignore the rules.**
