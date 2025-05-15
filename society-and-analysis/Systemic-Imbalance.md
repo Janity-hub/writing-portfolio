@@ -4,6 +4,8 @@ date: 2025-05-14
 categories: ["Society & Analysis"]
 ---
 
+![system-problem](https://i.imgur.com/bhbHLFB.png)
+
 In a system supposedly designed to protect ordinary people, we often run into a strange reality: **those who try to assert their rights face more resistance, cost, and emotional burden than those who simply ignore the rules.**
 
 This isn't an exception — it's a structural imbalance.
