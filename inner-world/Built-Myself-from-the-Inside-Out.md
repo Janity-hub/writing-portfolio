@@ -4,7 +4,7 @@ date: 2024-01-01
 categories: ["Inner World"]
 ---
 
-![build-personality](https://janity-hub.github.io/personal-website/build-personality.png)
+<img src="https://janity-hub.github.io/personal-website/build-personality.png" alt="build-personality" style="max-width:100%;">
 
 In mainstream psychology, the formation of a stable and functional personality is often attributed to secure attachment, clearly defined boundaries, and emotionally safe environments. I grew up with none of these.
 
