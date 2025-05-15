@@ -4,7 +4,7 @@ date: 2024-01-01
 categories: ["Society & Analysis"]
 ---
 
-[skill-line](https://i.imgur.com/Mtg2iaq.png)
+![skill-line](https://i.imgur.com/Mtg2iaq.png)
 
 Lately, I've become increasingly fascinated by the power of the compounding curve. Compound growth isn't limited to financial investments—it's deeply embedded in many areas of life, especially in skill acquisition and personal growth.
 
