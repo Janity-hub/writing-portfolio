@@ -4,7 +4,7 @@ date: 2024-01-01
 categories: ["Inner World"]
 ---
 
-![build-personality](static/img-hidden/build-personality.png)
+![build-personality](img-hidden/build-personality.png)
 
 In mainstream psychology, the formation of a stable and functional personality is often attributed to secure attachment, clearly defined boundaries, and emotionally safe environments. I grew up with none of these.
 
