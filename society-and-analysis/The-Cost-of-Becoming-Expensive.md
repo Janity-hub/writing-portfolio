@@ -4,6 +4,8 @@ date: 2024-01-01
 categories: ["Society & Analysis"]
 ---
 
+![the-cost](https://i.imgur.com/qoMLb9i.png)
+
 People often say, “You’re good at everything,” as if being capable across multiple domains is a personal choice or a badge of honor.
 
 It isn’t. Not for me.
