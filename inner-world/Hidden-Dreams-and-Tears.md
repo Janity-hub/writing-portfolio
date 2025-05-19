@@ -6,6 +6,8 @@ categories: ["Inner World"]
 
 ## A confession from a romantic who learned to live inside a rational shell
 
+[be-rational](https://i.imgur.com/1zWrBGX.png)
+
 When I realized that being emotional couldn’t protect me,
 I dismantled myself and rebuilt my soul in a rational structure.
 This piece is written for the version of me still hiding in that imaginary utopia.
