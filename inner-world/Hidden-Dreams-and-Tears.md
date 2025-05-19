@@ -1,11 +1,15 @@
-I'm Deeply Emotional — I Just Learned to Hide It Well
-Subtitle: A confession from a romantic who learned to live inside a rational shell
+---
+title: "I'm Deeply Emotional — I Just Learned to Hide It Well"
+date: 2025-05-18
+categories: ["Inner World"]
+---
+
+## A confession from a romantic who learned to live inside a rational shell
 
 When I realized that being emotional couldn’t protect me,
 I dismantled myself and rebuilt my soul in a rational structure.
 This piece is written for the version of me still hiding in that imaginary utopia.
-And for anyone who seems calm in the crowd,
-but is still burning on the inside.
+And for anyone who seems calm in the crowd, but is still burning on the inside.
 
 I’m not really a rational realist.
 In truth, I’m deeply emotional—wildly imaginative, and often lost in daydreams.
@@ -13,25 +17,18 @@ In truth, I’m deeply emotional—wildly imaginative, and often lost in daydrea
 I’ve spent countless hours buried in music, anime, novels—
 those quiet corners of the world where I built my own Peach Blossom Spring.
 My emotions are intense, my sensitivity overwhelming.
-I could spend an entire day listening to the same song,
-spiraling into thoughts, tears silently falling.
+I could spend an entire day listening to the same song, spiraling into thoughts, tears silently falling.
 
 But that couldn’t go on.
-
-My detachment from reality led me into chaos,
-and my emotional richness was dismissed as irrational, unreliable.
+My detachment from reality led me into chaos, and my emotional richness was dismissed as irrational, unreliable.
 
 So I created the opposite of who I was.
-
-I broke down my feelings with logic,
-converted them into cold structures of reason.
+I broke down my feelings with logic, converted them into cold structures of reason.
 I buried my fantasies, forced myself to face the real world.
 
-Now I appear strong—ruthlessly rational,
-almost void of emotion, wired with overactive analysis.
+Now I appear strong—ruthlessly rational, almost void of emotion, wired with overactive analysis.
 I can handle anything.
-I shut down my emotions in a flash, clear out every thought,
-and focus solely on solving the problem.
+I shut down my emotions in a flash, clear out every thought, and focus solely on solving the problem.
 
 But underneath that lies a heavily suppressed softness—
 a quiet, idealistic dreamer still alive and breathing.
@@ -41,6 +38,7 @@ I still slip back into my world of imagination as easily as ever.
 None of it was ever truly lost.
 It’s just waiting for the right moment to return.
 
+---
 
 我是感性的，但我伪装得很好
 一个理性壳子里的理想主义者自述
