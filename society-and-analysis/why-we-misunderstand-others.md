@@ -1,4 +1,8 @@
-# Why We So Often Misunderstand Others
+---
+title: "Why We So Often Misunderstand Others"
+date: 2025-05-24
+categories: ["Society & Analysis"]
+---
 
 ## You’re Only Seeing One Side of a Person
 
