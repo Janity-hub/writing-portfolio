@@ -17,6 +17,7 @@ Some of the content is written directly within this repository, while others are
 - [The Compound Effect of Skill Building](society-and-analysis/The-Compound-Effect-of-Skill-Building.md)
 - [The Cost of Becoming Expensive](society-and-analysis/The-Cost-of-Becoming-Expensive.md)
 - [When Upholding Your Rights Is Harder Than Breaking the Rules](society-and-analysis/Systemic-Imbalance.md)
+- [Why We So Often Misunderstand Others](society-and-analysis/why-we-misunderstand-others.md)
 
 ### 🌱 Inner World
 
