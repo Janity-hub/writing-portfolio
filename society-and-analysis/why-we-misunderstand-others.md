@@ -68,7 +68,7 @@ The more you're willing to engage with it, the closer you get to truth.
 Let go of your obsession with “perfect people.”
 You’re not selecting a product, and you're not hiring an employee. People aren’t here to meet your expectations.
 
-Let others be different. Let them be flawed, inconsistent, and in progress—just like you. That’s how we earn the right to be understood, too.
+Let others be different. Let them be flawed, inconsistent, and in progress—that’s how we earn the right to be understood, too.
 
 ## Respect Begins with Seeing the Whole Person
 
@@ -76,9 +76,9 @@ Rejecting a single-view lens is the most basic form of respect.
 
 Each of us is imperfect, yet whole. When you stop using a measuring stick and start seeing people as multi-faceted beings, that’s when true connection can begin.
 
-Because the people worth knowing aren’t “standardized” or “ideal”—they’re real, unique, and layered.
+Because the people worth knowing aren’t standardized or ideal—they’re real, unique, and layered.
 
-Just like you.
+And when you see them fully, you’re more likely to be seen fully, too.
 
 ---
 
