@@ -25,6 +25,7 @@ Some of the content is written directly within this repository, while others are
 
 ### 💻 Tech Projects
 
+- [Reviving an Old Laptop: System Optimization and DIY Upgrades](tech-projects/Legacy-Device-Reclamation-Guide.md)
 - [Platform Risk Control Vulnerability](tech-projects/Platform-Risk-Control-Vulnerability.md)
 - [Track Reading Progress in Markdown with Anchor Links](tech-projects/Markdown-Reading-Tags.md)
 
