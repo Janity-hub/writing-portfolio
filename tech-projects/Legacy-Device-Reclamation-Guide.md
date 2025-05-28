@@ -1,4 +1,8 @@
-# Reviving an Old Laptop: System Optimization and DIY Upgrades
+---
+title: "Reviving an Old Laptop: System Optimization and DIY Upgrades"
+date: 2025-05-27
+categories: ["Tech Projects"]
+---
 
 Working on an old laptop can save money and teach you a lot about how systems actually work.  
 Here’s a breakdown of the steps I took to check hardware health, optimize system performance, upgrade components, and even repurpose the device after its original lifecycle.
